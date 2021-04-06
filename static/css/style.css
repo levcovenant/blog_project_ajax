@@ -1,0 +1,13 @@
+.not-visible {
+    display: none;
+}
+
+/*DropJS*/
+.dz {
+    border: dashed #ccc !important;
+    border-radius: 10px;
+}
+
+.dz:hover {
+    background-color: aliceblue !important;
+}
